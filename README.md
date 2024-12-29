@@ -22,7 +22,7 @@ keyboard = "q2we4r5ty7u8i9op-[=]"
 ```
 2. This keyboard arrangement imitates a piano keyboard. "White keys" are on the qwerty row while "black keys" are on the 12345 row. Obviously, instead of a piano sound, what you get is a guitar sound. See the image below for reference. 
 
-[Guitar Keyboard](guitarkeys.png?raw=true)
+![Guitar Keyboard](guitarkeys.png)
 
 Enjoy!
 
